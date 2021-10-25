@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gee-3
 - 👩‍🔬I’m interested in Bioinformatics 
 - 👩‍💻 I’m currently learning Python 
-- 🤝I’m looking to collaborate on projects involving handling huge biological data as it is a place where I can put my programming skills (that I am still learning) to test . Also interested in prediction models involving both infectious and metabolic diseases. 
+- 🤝I’m looking to collaborate on projects involving handling of huge biological data as it is a place where I can put my programming skills (that I am still learning) to test . Also interested in prediction models involving both infectious and metabolic diseases. 
 - 📫 You can reach me at gee3binfo@gmail.com
 
 <!---
