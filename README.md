@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gee-3
+- 👋 Hi, I’m Gayathri
 - 👩‍🔬Interested in Bioinformatics 
 - 📫 You can reach me at gee3binfo@gmail.com
 
